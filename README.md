@@ -1,8 +1,5 @@
 # Deploy Application for NestJS_HelloWorld_app
 
-## Flow of diagram for Deploy the NestJS HelloWorld sample application on EC2 manually
-![Deploy the NestJS HelloWorld sample application on EC2 manually](https://github.com/VyankateshwarTaikar/NestJS_HelloWorld_app/assets/102132721/1044e40f-a965-421a-a9ef-054f55d84b27) 
-
 
 ## 🔗Fork this Repo link
 👉 [https://github.com/Shubhamrahangdale/helloworld0nest-js]
@@ -30,10 +27,6 @@ Add 3000 as a port in inbound rule
 
 so we  can see the sucessfully deployed the application  with the help of manual deployment 
 
-
-# flow diagram for Implement CI/CD using GitHub Actions.
-
-![Nestjs Github action Deployment cicd](https://github.com/VyankateshwarTaikar/NestJS_HelloWorld_app/assets/102132721/b7799f63-48b5-45d2-a857-33480d2ca986)
 
 ## GitHub Actions Workflow (Deploy.yml):
 
@@ -79,11 +72,5 @@ Connects to the EC2 instance using SSH and runs the deployment commands.
 
 # 👉 when you Update Deploy.yml that will automatically run the deployment 
 
-![image](https://github.com/VyankateshwarTaikar/NestJS_HelloWorld_app/assets/102132721/c262c687-c8f5-494d-9f09-5f497a3c74f9)
-
-![image](https://github.com/VyankateshwarTaikar/NestJS_HelloWorld_app/assets/102132721/22e73e7f-785e-4e38-94ac-b313faef7e73)
-
-
-![image](https://github.com/VyankateshwarTaikar/NestJS_HelloWorld_app/assets/102132721/35fd8bf2-95aa-420f-bbad-81167cd47f4c)
 
 
